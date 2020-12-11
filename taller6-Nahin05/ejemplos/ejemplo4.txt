@@ -1,0 +1,11 @@
+// Realizar una miniespecificación que permita pedir por teclado
+// el nombre de 5 empleados.
+// Por cada empleado se debe solicitar el nombre, numero de días trabajados
+// y costo del día trabajo.
+// Presentar un reporte como el siguiente:
+// Nombre 1   10    $2.5
+// Nombre 2   11    $2
+// Nombre 3   9     $3
+// Nombre 4   5     $4
+// Nombre 5   12    $2
+
